@@ -9,15 +9,6 @@ for (var item in paths) {
     fetchMoviesSection(paths[item].url, paths[item].name, "movie");
 }
 
-function remove() {
-    trailer_videos.style.display="none";
-}
-trailer_videos.addEventListener("mouseleave",(e)=>
-{
-remove();
-})
-console.log(paths)
-
 
 
 

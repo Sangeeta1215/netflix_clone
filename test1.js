@@ -17,15 +17,6 @@ for (var item in tvApi) {
 }
 
 
-
-function remove() {
-    trailer_videos.style.display="none";
-}
-trailer_videos.addEventListener("mouseleave",(e)=>
-{
-remove();
-})
-
 export{movieVideo,video_Details,videoDetail,Videos,icons,trailer_Detail,seasons,action_button1,trailer_videos};
 
 

@@ -280,4 +280,15 @@ detailDiv.innerHTML=`
  })
 }
 
+function remove() {
+    trailer_videos.style.display="none";
+}
+trailer_videos.addEventListener("mouseleave",(e)=>
+{
+remove();
+})
+
+
+
+
 export{fetchTrending,builtBannerSection,fetchMoviesSection};
