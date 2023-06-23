@@ -1,0 +1,10 @@
+.videoCont
+{
+    height:100vh; 
+    width:100vw;
+    overflow:hidden;
+}
+.iframe
+{
+    transform:scale(1.2,1.3);
+}

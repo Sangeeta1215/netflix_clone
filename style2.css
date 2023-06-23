@@ -1,0 +1,17 @@
+.row0
+{
+border:1px solid lightgrey;
+}
+.row01
+{
+margin-top:80px;
+}
+.foremail,.forpwd
+{
+display:none;
+}
+.alert
+{
+height:80px;
+border:1px solid black;
+}
