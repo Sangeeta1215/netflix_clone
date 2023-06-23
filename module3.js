@@ -1,4 +1,4 @@
-import{api_key,endpoint,imgPath,paths} from"/module1.js";
+import{api_key,endpoint,imgPath,paths} from "./module1.js";
 
 const movieVideo=document.querySelector(".movieVideos");
 const video_Details=document.querySelector(".video_detail");

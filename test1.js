@@ -1,7 +1,7 @@
 
-import{paths} from"/module1.js";
-import{tvApi} from"/module2.js";
-import{fetchTrending,builtBannerSection,fetchMoviesSection} from"/module3.js";
+import{paths} from"./module1.js";
+import{tvApi} from"./module2.js";
+import{fetchTrending,builtBannerSection,fetchMoviesSection} from"./module3.js";
 
 
 
